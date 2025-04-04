@@ -1,4 +1,4 @@
-## Ma'efa! 👋
+## Ma'efa! ✊
 Welcome to Synthetic Vibranium! We are on an assignment to replicate the vibranium. By creating an AI Laboratory that produces vibranium, we will be able to help the world become like Wakanda.
 
 Checkout M'Baku's Gorilla chant of the Jabari Tribe!
